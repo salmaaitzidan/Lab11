@@ -1,0 +1,11 @@
+# Android / Gradle
+.gradle/
+build/
+/local.properties
+/.idea/
+*.iml
+.DS_Store
+
+# Ne jamais versionner la clé API !
+# Si tu mets ta vraie clé dans google_maps_api.xml, ajoute cette ligne :
+# app/src/main/res/values/google_maps_api.xml

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    ╔══════════════════════════════════════════════════════════════════════════╗
+    ║                    CONFIGURATION DE LA CLÉ API GOOGLE MAPS              ║
+    ╠══════════════════════════════════════════════════════════════════════════╣
+    ║                                                                          ║
+    ║  ÉTAPES POUR OBTENIR VOTRE CLÉ :                                         ║
+    ║                                                                          ║
+    ║  1. Aller sur : https://console.cloud.google.com/                        ║
+    ║  2. Créer ou sélectionner un projet                                      ║
+    ║  3. APIs & Services → Activer "Maps SDK for Android"                     ║
+    ║  4. Identifiants → Créer une clé API                                     ║
+    ║  5. (Optionnel) Restreindre la clé à votre package :                     ║
+    ║        com.etudiant.maptracker                                            ║
+    ║  6. Copier la clé et remplacer VOTRE_CLE_API_ICI ci-dessous             ║
+    ║                                                                          ║
+    ╚══════════════════════════════════════════════════════════════════════════╝
+    -->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        VOTRE_CLE_API_ICI
+    </string>
+
+</resources>

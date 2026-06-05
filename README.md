@@ -2,6 +2,7 @@
 
 Projet Android développé dans le cadre d'un TP sur l'API Google Maps.
 
+Salma AIT ZIDAN
 ## Fonctionnalités
 
 - Affichage d'une carte Google Maps en plein écran
@@ -75,7 +76,7 @@ par votre vraie clé.
 - Android Studio → **Open** → sélectionner le dossier `MapTracker`
 - Laisser Gradle synchroniser
 - Connecter un appareil ou lancer un émulateur avec la localisation activée
-- **Run** (▶)
+- **Run**
 
 ---
 
@@ -149,7 +150,3 @@ implementation 'com.google.android.material:material:1.11.0'
 → `onProviderDisabled` ne se déclenche que lors d'un changement d'état. Vérifier l'état du GPS au démarrage est géré automatiquement par `demarrerTracking()`.
 
 ---
-
-## Licence
-
-Projet éducatif — libre d'utilisation à des fins pédagogiques.

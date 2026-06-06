@@ -46,8 +46,8 @@ MapTracker/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/MapTracker.git
-cd MapTracker
+git clone https://github.com/salmaaitzidan/Lab11.git
+cd Lab11.git
 ```
 
 ### 2. Obtenir une clé API Google Maps
